@@ -27,6 +27,6 @@ Auto change description profile Discord!
           </li>
         </ol>
       </p>
-      <p><b>Cross Platform: </b>Start: <code>python3 main.py</code></p>
+      <p><b>Cross Platform: </b>Start <code>python3 main.py</code></p>
     </div>
 </div>
